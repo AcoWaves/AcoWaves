@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌰 重新开始，重新出发.
+- 🌰 自控力，非常重要。
+- ⚡ 不愿甘于平凡。
 - ✨ keep moving keep thinking and autonomy
 
 
@@ -16,5 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
